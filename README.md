@@ -4,8 +4,8 @@
 -like full stack developer ,patients, professors was scraped from LinkedIn used the Django email sending library for sending the mails.
 
 # **TECH STACK** 
--DJANGO
--HTML
--CSS
--MYSQL
--REACT.JS
+- DJANGO
+- HTML
+- CSS
+- MYSQL
+- REACT.JS
